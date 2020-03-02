@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec91435-aad3-4816-8425-2a2d0e5c128f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FQ0007_ReverseInteger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FQ1221_SplitStringBalance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1291_SubtractProductDigitsInt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Easy Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Easy Problems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q077_JewelsStones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q077_JewelsStones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Q0007_ReverseInteger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.8-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.8-script.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +172,7 @@
       <workItem from="1582844393765" duration="5955000" />
       <workItem from="1582910676575" duration="186000" />
       <workItem from="1582910882656" duration="3616000" />
-      <workItem from="1583015908027" duration="6083000" />
+      <workItem from="1583015908027" duration="8871000" />
     </task>
     <servers />
   </component>
