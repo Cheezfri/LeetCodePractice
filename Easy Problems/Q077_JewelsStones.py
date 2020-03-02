@@ -10,7 +10,7 @@ class Solution:
         num_jewels = 0
         for jewel in j:
             num_jewels = num_jewels + jewels[jewel]
-        return num_jewelsb
+        return num_jewels
 
 
 if __name__ == "__main__":

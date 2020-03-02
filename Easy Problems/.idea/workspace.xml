@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec91435-aad3-4816-8425-2a2d0e5c128f" name="Default Changelist" comment="" />
+    <list default="true" id="5ec91435-aad3-4816-8425-2a2d0e5c128f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FQ0007_ReverseInteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FQ1221_SplitStringBalance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1291_SubtractProductDigitsInt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Easy Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Easy Problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q077_JewelsStones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q077_JewelsStones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Q0007_ReverseInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.8-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.8-script.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XBTs9YJ7szyaKg4q9cPBrriQgt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,10 +44,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Python Enviroment" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Q077_JewelsStones">
-    <configuration name="Q0001_TwoSums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\LeetCodePractice\Easy Problems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Q1290_BinaryLinkedListToInt">
+    <configuration name="FQ0007_ReverseInteger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Easy Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +66,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q0001_TwoSums.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FQ0007_ReverseInteger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -48,29 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q0007_ReverseInteger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Easy Problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Q0007_ReverseInteger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q077_JewelsStones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FQ1221_SplitStringBalance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Easy Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +88,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q077_JewelsStones.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\LeetCodePractice\Easy Problems\FQ1221_SplitStringBalance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q1342_NumStepsReduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q1290_BinaryLinkedListToInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Easy Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +110,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q1342_NumStepsReduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q1290_BinaryLinkedListToInt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q1291_SubtractProductDigitsInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Easy Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q1291_SubtractProductDigitsInt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q1295_NumEvenDigits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Easy Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q1295_NumEvenDigits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,10 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Q077_JewelsStones" />
-        <item itemvalue="Python.Q1342_NumStepsReduce" />
-        <item itemvalue="Python.Q0007_ReverseInteger" />
-        <item itemvalue="Python.Q0001_TwoSums" />
+        <item itemvalue="Python.Q1290_BinaryLinkedListToInt" />
+        <item itemvalue="Python.FQ1221_SplitStringBalance" />
+        <item itemvalue="Python.FQ0007_ReverseInteger" />
+        <item itemvalue="Python.Q1295_NumEvenDigits" />
+        <item itemvalue="Python.Q1291_SubtractProductDigitsInt" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +185,9 @@
       <updated>1580518692040</updated>
       <workItem from="1580518694550" duration="7001000" />
       <workItem from="1582844393765" duration="5955000" />
+      <workItem from="1582910676575" duration="186000" />
+      <workItem from="1582910882656" duration="3616000" />
+      <workItem from="1583015908027" duration="6083000" />
     </task>
     <servers />
   </component>
@@ -142,22 +195,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582910534727">
+    <state x="188" y="207" key="FileChooserDialogImpl" timestamp="1582911302654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582910534727" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582910534727">
+    <state x="188" y="207" key="FileChooserDialogImpl/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582911302654" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583110041926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582910534727" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582910534727">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583110041926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582910534727" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582910534727">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583110041926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582910534727" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583110041926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580533778543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -174,19 +231,24 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1580533778543" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1582844474788">
+    <state x="461" y="163" key="SettingsEditor" timestamp="1582911305600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582844474788" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1582844394837">
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582911305600" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583015970406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582844394837" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583015970406" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Easy_Problems$Q1295_NumEvenDigits.coverage" NAME="Q1295_NumEvenDigits Coverage Results" MODIFIED="1582914053200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Easy_Problems$Q0007_ReverseInteger.coverage" NAME="Q0007_ReverseInteger Coverage Results" MODIFIED="1580531869983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/Easy_Problems$Q077_JewelsStones.coverage" NAME="Q077_JewelsStones Coverage Results" MODIFIED="1582908685438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Easy_Problems$FQ0007_ReverseInteger.coverage" NAME="FQ0007_ReverseInteger Coverage Results" MODIFIED="1582914506949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Easy_Problems$Q077_JewelsStones.coverage" NAME="Q077_JewelsStones Coverage Results" MODIFIED="1582911261699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Easy_Problems$Q0001_TwoSums.coverage" NAME="Q0001_TwoSums Coverage Results" MODIFIED="1580521740761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Easy_Problems$Q1342_NumStepsReduce.coverage" NAME="Q1342_NumStepsReduce Coverage Results" MODIFIED="1582844623393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Easy_Problems$Q1221_SplitStringBalance.coverage" NAME="Q1221_SplitStringBalance Coverage Results" MODIFIED="1583100871844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Easy_Problems$Q1291_SubtractProductDigitsInt.coverage" NAME="Q1291_SubtractProductDigitsInt Coverage Results" MODIFIED="1582912348509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Easy_Problems$Q1290_BinaryLinkedListToInt.coverage" NAME="Q1290_BinaryLinkedListToInt Coverage Results" MODIFIED="1583110041917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

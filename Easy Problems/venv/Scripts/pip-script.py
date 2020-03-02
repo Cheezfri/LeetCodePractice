@@ -1,4 +1,4 @@
-#!"C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\Easy Problems\venv\Scripts\python.exe"
+#!"C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\LeetCodePractice\Easy Problems\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re

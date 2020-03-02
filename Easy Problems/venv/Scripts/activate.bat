@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\Easy Problems\venv
+set VIRTUAL_ENV=C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\LeetCodePractice\Easy Problems\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

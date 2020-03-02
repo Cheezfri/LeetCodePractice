@@ -1,4 +1,4 @@
-#!"C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\Easy Problems\venv\Scripts\python.exe"
+#!"C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\LeetCodePractice\Easy Problems\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re
