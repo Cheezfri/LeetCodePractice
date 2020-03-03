@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec91435-aad3-4816-8425-2a2d0e5c128f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1291_SubtractProductDigitsInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q1291_SubtractProductDigitsInt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
       <recent name="C:\Users\Alec\Google Drive\Actual Documents\LeetCode Practice\LeetCodePractice\Easy Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Q1290_BinaryLinkedListToInt">
+  <component name="RunManager" selected="Python.Q0121_BestTimeBuyStock">
     <configuration name="FQ0007_ReverseInteger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Easy Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +83,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Q0121_BestTimeBuyStock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Easy Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q0121_BestTimeBuyStock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Q1290_BinaryLinkedListToInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Easy Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,28 +119,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q1290_BinaryLinkedListToInt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q1291_SubtractProductDigitsInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Easy Problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q1291_SubtractProductDigitsInt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q0121_BestTimeBuyStock" />
         <item itemvalue="Python.Q1290_BinaryLinkedListToInt" />
         <item itemvalue="Python.FQ1221_SplitStringBalance" />
         <item itemvalue="Python.FQ0007_ReverseInteger" />
         <item itemvalue="Python.Q1295_NumEvenDigits" />
-        <item itemvalue="Python.Q1291_SubtractProductDigitsInt" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,7 @@
       <workItem from="1582844393765" duration="5955000" />
       <workItem from="1582910676575" duration="186000" />
       <workItem from="1582910882656" duration="3616000" />
-      <workItem from="1583015908027" duration="8871000" />
+      <workItem from="1583015908027" duration="13278000" />
     </task>
     <servers />
   </component>
@@ -184,22 +185,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="188" y="207" key="FileChooserDialogImpl/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1582911302654" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583110041926">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583219032548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583110041926">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583219032548" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583219032548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583110041926">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583219032548" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583219032548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583110041926">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583219032548" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583219032548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583110041926" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583219032548" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580533778543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -224,6 +225,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583015970406" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583217050394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.131.1366.728@0.0.1920.1040" timestamp="1583217050394" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Easy_Problems$Q1295_NumEvenDigits.coverage" NAME="Q1295_NumEvenDigits Coverage Results" MODIFIED="1582914053200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -233,6 +238,7 @@
     <SUITE FILE_PATH="coverage/Easy_Problems$Q0001_TwoSums.coverage" NAME="Q0001_TwoSums Coverage Results" MODIFIED="1580521740761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Easy_Problems$Q1342_NumStepsReduce.coverage" NAME="Q1342_NumStepsReduce Coverage Results" MODIFIED="1582844623393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Easy_Problems$Q1221_SplitStringBalance.coverage" NAME="Q1221_SplitStringBalance Coverage Results" MODIFIED="1583100871844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Easy_Problems$Q0121_BestTimeBuyStock.coverage" NAME="Q0121_BestTimeBuyStock Coverage Results" MODIFIED="1583219032544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Easy_Problems$Q1291_SubtractProductDigitsInt.coverage" NAME="Q1291_SubtractProductDigitsInt Coverage Results" MODIFIED="1582912348509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Easy_Problems$Q1290_BinaryLinkedListToInt.coverage" NAME="Q1290_BinaryLinkedListToInt Coverage Results" MODIFIED="1583110041917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
